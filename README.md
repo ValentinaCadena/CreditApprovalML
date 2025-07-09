@@ -2,6 +2,10 @@
 
 En elpresente proyecto se propone desarrollar un modelo de aprendizaje automático (Machine Learning) capaz de predecir si un solicitante será un “buen” o “mal” cliente. Este enfoque busca automatizar y optimizar el proceso de aprobación de tarjetas de crédito, permitiendo al banco reducir riesgos y mejorar la eficiencia del proceso de evaluación. La solución basada en Machine Learning permitirá no solo realizar predicciones, sino también adaptarse mejor a nuevas condiciones económicas o cambios en los patrones de comportamiento de los usuarios.
 
+## Video de Explicación del Proyecto
+
+Puedes ver un video explicativo del proyecto en el siguiente enlace: [Video de Explicación](https://youtu.be/5OUmXHCyvs8).
+
 ## ¿Cómo ejecutar el proyecto?
 
 Para ejecutar el proyecto, puedes seguir los siguientes pasos para correr el código en tu entorno local. Asegúrate de tener instalado Python y Git en tu sistema.
